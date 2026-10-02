@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Local sample files used to run and verify the examples (kept out of the repo)
+test-data/
+
+# Personal working notes
+instructions.md
+
+# Source PDFs
+*.pdf
