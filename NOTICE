@@ -1,7 +1,8 @@
 Third-party content
 ===================
 
-This license covers the original material in this repository: the one-liners
+The MIT License in LICENSE covers the original material in this repository:
+the one-liners
 written for it, the notes, corrections and test scripts. It does not cover:
 
 - The one-liners reproduced in python-one-liners-book.md from "250+ Killer
