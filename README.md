@@ -87,6 +87,7 @@ Testing turned up real errors. These were corrected, and each correction is docu
 ```
 ├── README.md
 ├── LICENSE
+├── NOTICE                          # third-party content not covered by the license
 ├── python-one-liners.md            # Python one-liners
 ├── sed-awk-bioawk-one-liners.md    # sed / awk / bioawk / shell + classic sed list
 ├── python-one-liners-book.md       # the book's 264 one-liners, tested and corrected
@@ -103,7 +104,7 @@ The notes are plain Markdown. They render on GitHub and open directly as an [Obs
 
 The original material in this repository (the one-liners written for it, the notes, the corrections and the test scripts) is released under the [MIT License](LICENSE).
 
-Third-party content is **not** covered by that license and remains the property of its authors: the one-liners reproduced from *250+ Killer Python One-Liners* in [python-one-liners-book.md](python-one-liners-book.md), and Eric Pement's *Handy One-Liners for Sed* in [sed-awk-bioawk-one-liners.md](sed-awk-bioawk-one-liners.md). See the Acknowledgements below.
+Third-party content is **not** covered by that license and remains the property of its authors: the one-liners reproduced from *250+ Killer Python One-Liners* in [python-one-liners-book.md](python-one-liners-book.md), and Eric Pement's *Handy One-Liners for Sed* in [sed-awk-bioawk-one-liners.md](sed-awk-bioawk-one-liners.md). See [NOTICE](NOTICE) and the Acknowledgements below.
 
 ## Acknowledgements
 

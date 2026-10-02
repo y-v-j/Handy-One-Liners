@@ -1,0 +1,12 @@
+Third-party content
+===================
+
+This license covers the original material in this repository: the one-liners
+written for it, the notes, corrections and test scripts. It does not cover:
+
+- The one-liners reproduced in python-one-liners-book.md from "250+ Killer
+  Python One-Liners" by Hernando Abella (Aluna Publishing House). That content
+  remains the property of its author.
+- "Handy One-Liners for Sed" (version 5.1), compiled by Eric Pement and
+  contributors, reproduced in sed-awk-bioawk-one-liners.md. It remains the
+  property of its authors.
