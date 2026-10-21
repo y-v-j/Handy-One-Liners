@@ -1,0 +1,27 @@
+# GitHub Pages: README.md rendered with the Midnight Ink theme (_layouts/default.html).
+lang: en
+author: Yogesh
+tagline: "Tested one-liners for Python, sed and awk"
+nav:
+  - title: "Testing"
+    url: "#testing"
+  - title: "Corrections"
+    url: "#corrections-and-findings"
+  - title: "Layout"
+    url: "#repository-layout"
+license_name: "MIT"
+copyright: "© 2026 Yogesh"
+exclude:   # setting this replaces Jekyll's defaults, so they are repeated here
+  - "python-one-liners-book.md"
+  - ".sass-cache"
+  - ".jekyll-cache"
+  - "gemfiles"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+plugins:
+  - jekyll-seo-tag
